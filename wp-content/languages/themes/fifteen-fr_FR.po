@@ -1,0 +1,144 @@
+# Translation of Themes - Fifteen in French (France)
+# This file is distributed under the same license as the Themes - Fifteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-07-18 23:43:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Fifteen\n"
+
+#: search.php:12
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour %s"
+
+#: framework/customizer/social-icons.php:51
+msgid "Flickr"
+msgstr "Flickr"
+
+#: framework/customizer/social-icons.php:50
+msgid "Youtube"
+msgstr "YouTube"
+
+#: framework/customizer/social-icons.php:46
+msgid "Instagram"
+msgstr "Instagram"
+
+#: framework/customizer/social-icons.php:45
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: framework/customizer/social-icons.php:44
+msgid "Twitter"
+msgstr "Twitter"
+
+#: framework/customizer/social-icons.php:43
+msgid "Facebook"
+msgstr "Facebook"
+
+#: modules/content/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. Essayez en lançant une recherche."
+
+#: modules/content/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec des mots différents."
+
+#: modules/content/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier article&nbsp;? <a href=\"%1$s\">Lancez-vous</a>&nbsp;!"
+
+#: modules/content/content-none.php:13
+msgid "Nothing Found"
+msgstr "Rien de trouvé"
+
+#: framework/widgets/recent-posts.php:98
+msgid "No. of Posts:"
+msgstr "No. of Posts:"
+
+#: framework/widgets/recent-posts.php:95
+msgid "Title:"
+msgstr "Titre&nbsp;:"
+
+#: framework/widgets/recent-posts.php:91
+msgid "5"
+msgstr "5"
+
+#: framework/widgets/recent-posts.php:85
+msgid "Latest Articles"
+msgstr "Latest Articles"
+
+#: framework/widgets/recent-posts.php:14
+msgid "Display your recent posts, with a Thumbnail."
+msgstr "Display your recent posts, with a Thumbnail."
+
+#: inc/template-tags.php:158
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de validation."
+
+#: inc/template-tags.php:137
+msgid "Pingback:"
+msgstr "Ping&nbsp;:"
+
+#: framework/customizer/social-icons.php:12
+msgid "Default"
+msgstr "Valeur par défaut"
+
+#: framework/customizer/skins.php:8
+msgid "Site Title Color"
+msgstr "Couleur du titre du site"
+
+#: framework/admin_modules/theme_setup.php:49
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: inc/template-tags.php:137 inc/template-tags.php:173
+msgid "Edit"
+msgstr "Modifier"
+
+#: modules/content/content-page.php:18 modules/content/content-single.php:28
+#: modules/content/content.php:29
+msgid "Pages:"
+msgstr "Pages&nbsp;:"
+
+#: framework/layouts/content-grid.php:22
+#: framework/layouts/content-grid_2_column.php:22
+#: framework/layouts/content-grid_3_column.php:22
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:50 comments.php:68
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: comments.php:49 comments.php:67
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaire plus ancien"
+
+#: comments.php:48 comments.php:66
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Essayez de voir du côté des archives mensuelles. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Catégories les plus utilisées"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Contenu Introuvable. L'outil de Recherche ou les Liens ci-dessous vous remettront peut-être sur la voie&hellip;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups&nbsp;! Cette page est introuvable."
